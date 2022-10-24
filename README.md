@@ -7,24 +7,25 @@
 
 | Session             |   Description and links      |
 |---------------------|---------------------|
-| Day 1, AM Session 1 | HPC intro           |              
-| Day 1, AM Session 2 | HPC intro and scaling |               
-| Day 1, PM Session 1 | MD introduction and water simulations     |                
-| Day 1, PM Session 2 | [Simulations, temperature, and pressure](thermostats/README.md)                    |        
-| Day 2, AM Session 1 | [Uncertainty analysis](uncertainty/README.md)                |               
-| Day 2, AM Session 2 | Initializing simulations, managing force fields      	      	    |           
-| Day 2, PM Session 1 | [What are force fields?](force_fields/README.md)        |               
-| Day 2, PM Session 2 | [DEI workshop](dei/README.md)      	      	    |            
-| Day 3, AM Session 1 | [Simulation Validation](validation/README.md)     	      	    |            
-| Day 3, AM Session 2 | [Bootstrapping](bootstrapping/README.md)      	      	    |               
-| Day 3, PM Session 1 | HOOMD and polymers      	      	    |               
-| Day 3, PM Session 2 | Simulation of polymers      	      	    |             
-| Day 4, AM Session 1 | [MC Stuff](README.md)   	      	    |               
-| Day 4, AM Session 2 | MC stuff      	      	    |               
-| Day 4, PM Session 1 | MC Stuff       	      	    |               
-| Day 4, PM Session 2 | MC Stuff     	      	    |               
-| Day 5, AM Session 1 | MC Stuff      	      	    |             
-| Day 5, AM Session 2 | MC stuff       	      	    |             
-| Day 5, PM Session 1 | MC stuff      	      	    |             
-| Day 5, PM Session 2 | How to do computational research      	      	    |             
+| Day 1, AM Session 1 | QM and DFT introduction     |              
+| Day 1, AM Session 2 | HPC introduction and access |               
+| Day 1, PM Session 1 | Building and geometry optimization     |                
+| Day 1, PM Session 2 | Basis sets, functionals, optimization, reaction energetics              |
+| Day 2, AM Session 1 | Keynote lecture: Elements of DFT calculations                |               
+| Day 2, AM Session 2 | Electronic structure of solids      	      	    |           
+| Day 2, PM Session 1 | Introduction to Catalysis        |               
+| Day 2, PM Session 2 | Surface and Binding Calculations      	      	    |  
+| Day 2, PM Session 3 | DEI emPower Hour      	      	    |   
+| Day 3, AM Session 1 | Hands-on excercises    	      	    |            
+| Day 3, AM Session 2 | Catalysis and Rate Theory     	      	    |               
+| Day 3, PM Session 1 | Multi-step reaction and potential energy surface     	    |               
+| Day 3, PM Session 2 | Hands-on session      	      	    |             
+| Day 4, AM Session 1 | Electrochemistry-I   	      	    |               
+| Day 4, AM Session 2 | Hands-on excercise      	      	    |               
+| Day 4, PM Session 1 | DFT fundamentals: exchange & correlation functionals 	   	    |               
+| Day 4, PM Session 2 | Electrochemistry-II     	      	    |               
+| Day 5, AM Session 1 | Microkinetic modeling-I   	      	    |             
+| Day 5, AM Session 2 | Microkinetic modeling-II       	      	    |             
+| Day 5, PM Session 1 | Hands-on excercise      	      	    |             
+| Day 5, PM Session 2 | General Q/A      	      	    |             
 
