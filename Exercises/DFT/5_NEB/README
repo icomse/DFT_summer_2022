@@ -1,0 +1,17 @@
+Outputs from a NEB simulation in CP2K:
+
+PROJECT-BANDXX.out - The geometry optimisation output for each replica.
+PROJECT-pos-Replica_nr_XX-1.xyz - The optimisation trajectory for each replica.
+PROJECT-r-XX.out - The starting point for the geometry optimisation.
+
+
+To create a movie for ASE, VMD, etc.
+
+$ for file in *-1.xyz; do tail -20 $file >> movie.xyz; done
+
+where 20 can be replaced depending on the number of atoms in your simulation + 2
+Sometimes, you can have other xyz files that contain information about forces and/or velocities. Be sure to move those to another directory first!
+
+To get the energy profile for your reaction:
+
+$ grep "Total energy" cp2k.out | tail -10 | awk '{print $4}'
