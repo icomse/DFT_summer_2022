@@ -1,0 +1,5 @@
+
+To install these and make your VIM editor look really nice for CP2K, run the following commands:
+
+cp vimrc.txt ~/.vimrc
+cp -r vim ~/.vim
