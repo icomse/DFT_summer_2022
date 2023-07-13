@@ -7,7 +7,7 @@
 
 | Session             |   Description and links      |
 |---------------------|---------------------|
-| Day 1, AM Session 1 | QM and DFT introduction     |              
+| Day 1, AM Session 1 | [QM and DFT introduction](https://github.com/icomse/DFT_summer_2022/blob/main/Theory/DFT/Day%201-1%20QM%20Intro.pdf)     |              
 | Day 1, AM Session 2 | HPC introduction and access |               
 | Day 1, PM Session 1 | Building and geometry optimization     |                
 | Day 1, PM Session 2 | Basis sets, functionals, optimization, reaction energetics              |
@@ -26,6 +26,6 @@
 | Day 4, PM Session 2 | Electrochemistry-II     	      	    |               
 | Day 5, AM Session 1 | Microkinetic modeling-I   	      	    |             
 | Day 5, AM Session 2 | Microkinetic modeling-II       	      	    |             
-| Day 5, PM Session 1 | Hands-on excercise      	      	    |             
+| Day 5, PM Session 1 | [Hands-on excercise](https://github.com/icomse/DFT_summer_2022/tree/main/Exercises/MKM)      	      	    |             
 | Day 5, PM Session 2 | General Q/A      	      	    |             
 
