@@ -9,7 +9,8 @@
 |---------------------|---------------------|
 | Day 1, AM Session 1 | [QM and DFT introduction](https://github.com/icomse/DFT_summer_2022/blob/main/Theory/DFT/Day%201-1%20QM%20Intro.pdf)     |              
 | Day 1, AM Session 2 | HPC introduction and access |               
-| Day 1, PM Session 1 | Building and geometry optimization     |                
+| Day 1, PM Session 1 | Building and geometry optimization     | 
+|                     |                                        | 
 | Day 1, PM Session 2 | Basis sets, functionals, optimization, reaction energetics              |
 | Day 2, AM Session 1 | Keynote lecture: Elements of DFT calculations                |               
 | Day 2, AM Session 2 | Electronic structure of solids      	      	    |           
