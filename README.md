@@ -24,8 +24,8 @@
 | Day 4, AM Session 2 | Hands-on excercise      	      	    |               
 | Day 4, PM Session 1 | DFT fundamentals: exchange & correlation functionals 	   	    |               
 | Day 4, PM Session 2 | Electrochemistry-II     	      	    |               
-| Day 5, AM Session 1 | Microkinetic modeling-I   	      	    |             
-| Day 5, AM Session 2 | Microkinetic modeling-II       	      	    |             
+| Day 5, AM Session 1 | [Microkinetic modeling-I](https://github.com/icomse/DFT_summer_2022/blob/main/Theory/MKM/Medford-MKM1.pdf)  	      	    |             
+| Day 5, AM Session 2 | [Microkinetic modeling-II](https://github.com/icomse/DFT_summer_2022/blob/main/Theory/MKM/Medford-MKM2.pdf)     	      	    |             
 | Day 5, PM Session 1 | [Hands-on excercise](https://github.com/icomse/DFT_summer_2022/tree/main/Exercises/MKM)      	      	    |             
 | Day 5, PM Session 2 | General Q/A      	      	    |             
 
